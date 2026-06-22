@@ -59,11 +59,11 @@
 
 ## Команда
 
-|                                               | Имя | Роль          | GitHub |
-|-----------------------------------------------|---|---------------|---|
-| <img src="assets/team/pati.jpg" width="40" /> | Имя Фамилия | ML/Backend    | [@Vinandydy](https://github.com/Vinandydy) |
-| <img src="assets/team/baki.jpg" width="40" /> | Имя Фамилия | Backend/Frontend | [@umlerr](https://github.com/umlerr) |
-| <img src="assets/team/kabi.jpg" width="40" /> | Имя Фамилия | Backend       | [@nekoshaurman](https://github.com/nekoshaurman) |
+|                                               | Имя                | Роль          | GitHub |
+|-----------------------------------------------|--------------------|---------------|---|
+| <img src="assets/team/pati.jpg" width="40" /> | Андрей Виноградов  | ML/Backend    | [@Vinandydy](https://github.com/Vinandydy) |
+| <img src="assets/team/baki.jpg" width="40" /> | Михаил Угрюмов     | Backend/Frontend | [@umlerr](https://github.com/umlerr) |
+| <img src="assets/team/kabi.jpg" width="40" /> | Владислав Таланков | Backend       | [@nekoshaurman](https://github.com/nekoshaurman) |
 
 
 ## Контакты
