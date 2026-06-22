@@ -5,7 +5,7 @@
 
 # Sudotorioum
 
-### Краткий и цепляющий слоган в одну строку
+### Паримся, программируем, паримся, программируем...
 
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-Канал-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sudotorium)
